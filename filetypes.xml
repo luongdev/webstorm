@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".env" type="tsconfig" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
