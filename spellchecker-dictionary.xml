@@ -2,14 +2,22 @@
   <component name="CachedDictionaryState">
     <words>
       <w>agentid</w>
+      <w>attname</w>
+      <w>attnum</w>
+      <w>attrelid</w>
       <w>bgapi</w>
       <w>callcenter</w>
       <w>colorizer</w>
       <w>domainid</w>
+      <w>indexrelid</w>
+      <w>indkey</w>
+      <w>indrelid</w>
       <w>loopback</w>
       <w>metech</w>
       <w>metechvn</w>
       <w>reauthentication</w>
+      <w>relkind</w>
+      <w>relname</w>
       <w>robo</w>
     </words>
   </component>
