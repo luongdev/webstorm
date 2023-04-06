@@ -8,6 +8,7 @@
       <w>attrelid</w>
       <w>bgapi</w>
       <w>callcenter</w>
+      <w>chạy</w>
       <w>colorizer</w>
       <w>domainid</w>
       <w>fortawesome</w>
@@ -15,16 +16,21 @@
       <w>indexrelid</w>
       <w>indkey</w>
       <w>indrelid</w>
+      <w>kiếm</w>
       <w>libmp</w>
       <w>loopback</w>
       <w>metech</w>
       <w>metechvn</w>
+      <w>nhân</w>
       <w>oauthbearer</w>
       <w>reauthentication</w>
       <w>relkind</w>
       <w>relname</w>
       <w>robo</w>
       <w>syncible</w>
+      <w>thêm</w>
+      <w>tiếp</w>
+      <w>tổng</w>
     </words>
   </component>
 </application>
