@@ -18,9 +18,13 @@
           <option name="url" value="https://github.com/datnquit/study-nestjs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.15.110:8080/scm/mp/campaign-planning.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/Volumes/workspace" />
+    <option name="cloneParentDir" value="/Volumes/workspace/dev" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
