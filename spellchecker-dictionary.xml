@@ -28,6 +28,7 @@
       <w>nhân</w>
       <w>oauthbearer</w>
       <w>reauthentication</w>
+      <w>recv</w>
       <w>relkind</w>
       <w>relname</w>
       <w>robo</w>
@@ -36,6 +37,7 @@
       <w>thống</w>
       <w>tiếp</w>
       <w>tổng</w>
+      <w>xoauth</w>
     </words>
   </component>
 </application>
