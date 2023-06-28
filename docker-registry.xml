@@ -1,0 +1,10 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry>
+      <option name="address" value="https://docker-registry.metechvn.com" />
+      <option name="name" value="Metech Registry" />
+      <option name="username" value="" />
+      <option name="v2Registry" value="true" />
+    </DockerRegistry>
+  </component>
+</application>
