@@ -11,6 +11,7 @@
       <w>chiến</w>
       <w>chạy</w>
       <w>colorizer</w>
+      <w>datadir</w>
       <w>domainid</w>
       <w>dịch</w>
       <w>fortawesome</w>
@@ -33,6 +34,9 @@
       <w>relkind</w>
       <w>relname</w>
       <w>robo</w>
+      <w>rundir</w>
+      <w>sqlpassword</w>
+      <w>sqluser</w>
       <w>syncible</w>
       <w>thêm</w>
       <w>thống</w>
