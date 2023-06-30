@@ -3,14 +3,17 @@
     <words>
       <w>acodec</w>
       <w>agentid</w>
+      <w>apiers</w>
       <w>attname</w>
       <w>attnum</w>
       <w>attrelid</w>
       <w>bgapi</w>
+      <w>birpc</w>
       <w>callcenter</w>
       <w>chiến</w>
       <w>chạy</w>
       <w>colorizer</w>
+      <w>conns</w>
       <w>datadir</w>
       <w>domainid</w>
       <w>dịch</w>
@@ -20,6 +23,7 @@
       <w>indkey</w>
       <w>indrelid</w>
       <w>inputtext</w>
+      <w>jsonrpc</w>
       <w>kiếm</w>
       <w>kịch</w>
       <w>libmp</w>
@@ -29,6 +33,7 @@
       <w>mysqld</w>
       <w>nhân</w>
       <w>oauthbearer</w>
+      <w>rals</w>
       <w>reauthentication</w>
       <w>recv</w>
       <w>relkind</w>
@@ -37,6 +42,7 @@
       <w>rundir</w>
       <w>sqlpassword</w>
       <w>sqluser</w>
+      <w>stor</w>
       <w>stordb</w>
       <w>syncible</w>
       <w>thêm</w>
