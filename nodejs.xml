@@ -3,5 +3,8 @@
     <local-interpreter path="$USER_HOME$/Library/Caches/fnm_multishells/95358_1687504688619/bin/node">
       <version-cache version="18.10.0" last-modified="1664377694000" />
     </local-interpreter>
+    <local-interpreter path="$USER_HOME$/Library/Caches/fnm_multishells/61934_1691401540176/bin/node">
+      <version-cache version="16.20.0" last-modified="1680037984000" />
+    </local-interpreter>
   </component>
 </application>
