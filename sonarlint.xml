@@ -1,0 +1,16 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.metechvn.com" />
+          <option name="name" value="sonar.metechvn.com" />
+          <option name="login" value="metech" />
+          <password>dfebdfc8dfc9dfeadf9edf99df98df9b</password>
+          <disableNotifications>true</disableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
