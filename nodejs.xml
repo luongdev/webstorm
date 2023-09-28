@@ -6,5 +6,11 @@
     <local-interpreter path="$USER_HOME$/Library/Caches/fnm_multishells/61934_1691401540176/bin/node">
       <version-cache version="16.20.0" last-modified="1680037984000" />
     </local-interpreter>
+    <local-interpreter path="$USER_HOME$/Library/Caches/fnm_multishells/64120_1691402020720/bin/node">
+      <version-cache version="16.20.0" last-modified="1680037984000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/Documents/develop/metech/config-server/node_modules/.bin/ts-node">
+      <version-cache version="10.9.1" last-modified="1695806019678" />
+    </local-interpreter>
   </component>
 </application>
